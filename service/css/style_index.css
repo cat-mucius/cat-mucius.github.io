@@ -1,0 +1,33 @@
+BODY {scrollbar-face-color: #aaaaaa; scrollbar-shadow-color: #000000;
+      scrollbar-highlight-color: #aaaaaa; scrollbar-3dlight-color: #FFFFFF; 
+      scrollbar-darkshadow-color: #AFC6DB; scrollbar-track-color: #cccccc; 
+      scrollbar-arrow-color: #aaaaaa; font-size:12px;  
+      padding-top: 0; padding-left: 0; padding-right: 0;
+      MARGIN-LEFT: 4%; MARGIN-RIGHT: 4%; background-color:#dddddd;}
+
+a         { text-decoration: none; font-family: Verdana, Helvetica, Arial;}
+a:link    { text-decoration: none; color: #006699; }
+a:visited { text-decoration: none; color: #006666; }
+a:hover   { text-decoration: none; color: #009999; }
+
+H2        { font-family: Verdana, Helvetica,Arial; }
+H3        { font-family: Verdana, Helvetica,Arial; text-decoration: none;}
+
+.text     { font-family: Verdana, Helvetica, Arial; color: #000000; 
+            font-size:small;valign:top; background-color:#eeeeee; 
+            text-align:justify;}
+
+.note1    { font-family: Verdana, Helvetica, Arial; color: #000000;
+            background-color: #dddddd; font-size: x-small;text-align:justify;
+            text-indent:20;}
+
+.navigate  { font-family: Verdana, Helvetica, Arial; font-size:small;
+             valign:middle; text-align:center; font-weight:bold}
+
+.h_index { background-color: #93B3B3; color: black;}
+
+.copyright  { font-family: Verdana, Helvetica, Arial; font-size: x-small; }
+
+
+.bordercolor  { background-color: #666666; }
+
